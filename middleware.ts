@@ -1,9 +1,4 @@
-import {
-  NextResponse,
-  type NextRequest,
-  type NextMiddleware,
-  type NextFetchEvent,
-} from "next/server";
+import { type NextRequest } from "next/server";
 import createNextIntlMiddleware from "next-intl/middleware";
 import * as i18n from "app/_i18n";
 

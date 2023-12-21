@@ -1,4 +1,4 @@
-import { redirect } from "app/_i18n";
+import { redirect } from "next/navigation";
 
 export default function Home() {
   redirect("/en");
