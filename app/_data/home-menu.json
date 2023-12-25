@@ -1,0 +1,1766 @@
+[
+  {
+    "label": "Football Tickets",
+    "link": "/football-soccer-tickets",
+    "type": "submenu",
+    "items": [
+      {
+        "label": "English Premier League Tickets",
+        "link": "/english-premier-league-tickets",
+        "subitems": [
+          {
+            "label": "A.F.C. Bournemouth",
+            "link": "/afc-bournemouth-tickets"
+          },
+          {
+            "label": "Arsenal",
+            "link": "/arsenal-tickets"
+          },
+          {
+            "label": "Aston Villa",
+            "link": "/aston-villa-tickets"
+          },
+          {
+            "label": "Brighton & Hove Albion",
+            "link": "/brighton-hove-albion-tickets"
+          },
+          {
+            "label": "Brentford",
+            "link": "/brentford-tickets"
+          },
+          {
+            "label": "Burnley",
+            "link": "/burnley-tickets"
+          },
+          {
+            "label": "Chelsea",
+            "link": "/chelsea-tickets"
+          },
+          {
+            "label": "Crystal Palace",
+            "link": "/crystal-palace-tickets"
+          },
+          {
+            "label": "Everton FC",
+            "link": "/everton-fc-tickets"
+          },
+          {
+            "label": "Fulham FC",
+            "link": "/fulham-fc-tickets"
+          },
+          {
+            "label": "Liverpool",
+            "link": "/liverpool-tickets"
+          },
+          {
+            "label": "Luton Town",
+            "link": "/luton-town-tickets"
+          },
+          {
+            "label": "Manchester City",
+            "link": "/manchester-city-tickets"
+          },
+          {
+            "label": "Manchester United",
+            "link": "/manchester-united-tickets"
+          },
+          {
+            "label": "Newcastle United",
+            "link": "/newcastle-united-tickets"
+          },
+          {
+            "label": "Nottingham Forest",
+            "link": "/nottingham-forest-tickets"
+          },
+          {
+            "label": "Sheffield United",
+            "link": "/sheffield-united-tickets"
+          },
+          {
+            "label": "Tottenham Hotspur",
+            "link": "/tottenham-hotspur-tickets"
+          },
+          {
+            "label": "West Ham United",
+            "link": "/west-ham-united-tickets"
+          },
+          {
+            "label": "Wolverhampton FC",
+            "link": "/wolverhampton-fc-tickets"
+          },
+          {
+            "label": "View All English Premier League",
+            "link": "/english-premier-league-tickets"
+          }
+        ]
+      },
+      {
+        "label": "Spanish La Liga Tickets",
+        "link": "/spanish-la-liga-tickets",
+        "subitems": [
+          {
+            "label": "Athletic Club Bilbao",
+            "link": "/athletic-club-bilbao-tickets"
+          },
+          {
+            "label": "Atlético Madrid",
+            "link": "/atletico-madrid-tickets"
+          },
+          {
+            "label": "CA Osasuna",
+            "link": "/osasuna-tickets"
+          },
+          {
+            "label": "Cadiz",
+            "link": "/cadiz-tickets"
+          },
+          {
+            "label": "Celta de Vigo",
+            "link": "/celta-de-vigo-tickets"
+          },
+          {
+            "label": "Deportivo Alavés",
+            "link": "/deportivo-alaves-tickets"
+          },
+          {
+            "label": "FC Barcelona",
+            "link": "/fc-barcelona-tickets"
+          },
+          {
+            "label": "Getafe CF",
+            "link": "/getafe-cf-tickets"
+          },
+          {
+            "label": "Granada FC",
+            "link": "/granada-fc-tickets"
+          },
+          {
+            "label": "Girona FC",
+            "link": "/girona-fc-tickets"
+          },
+          {
+            "label": "RCD Mallorca",
+            "link": "/rcd-mallorca-tickets"
+          },
+          {
+            "label": "Rayo Vallecano",
+            "link": "/rayo-vallecano-tickets"
+          },
+          {
+            "label": "Real Betis Balompié",
+            "link": "/real-betis-balompie-tickets"
+          },
+          {
+            "label": "Real Madrid",
+            "link": "/real-madrid-tickets"
+          },
+          {
+            "label": "Real Sociedad",
+            "link": "/real-sociedad-tickets"
+          },
+          {
+            "label": "Sevilla FC",
+            "link": "/sevilla-fc-tickets"
+          },
+          {
+            "label": "UD Las Palmas",
+            "link": "/ud-las-palmas-tickets"
+          },
+          {
+            "label": "Valencia CF",
+            "link": "/valencia-cf-tickets"
+          },
+          {
+            "label": "Villarreal CF",
+            "link": "/villarreal-fc-tickets"
+          },
+          {
+            "label": "View All Spanish La Liga",
+            "link": "/spanish-la-liga-tickets"
+          }
+        ]
+      },
+      {
+        "label": "Italian Serie A Tickets",
+        "link": "/italian-serie-a-tickets",
+        "subitems": [
+          {
+            "label": "AC Milan",
+            "link": "/ac-milan-tickets"
+          },
+          {
+            "label": "AC Monza",
+            "link": "/ac-monza-tickets"
+          },
+          {
+            "label": "ACF Fiorentina",
+            "link": "/acf-fiorentina-tickets"
+          },
+          {
+            "label": "AS Roma",
+            "link": "/as-roma-tickets"
+          },
+          {
+            "label": "Atalanta BC",
+            "link": "/atalanta-bc-tickets"
+          },
+          {
+            "label": "Bologna FC",
+            "link": "/bologna-fc-tickets"
+          },
+          {
+            "label": "Cagliari",
+            "link": "/cagliari-tickets"
+          },
+          {
+            "label": "Empoli F.C.",
+            "link": "/empoli-fc-tickets"
+          },
+          {
+            "label": "Frosinone Calcio",
+            "link": "/frosinone-calcio-tickets"
+          },
+          {
+            "label": "Genoa CFC",
+            "link": "/genoa-cfc-tickets"
+          },
+          {
+            "label": "Hellas Verona",
+            "link": "/hellas-verona-tickets"
+          },
+          {
+            "label": "Inter Milan",
+            "link": "/inter-tickets"
+          },
+          {
+            "label": "Juventus FC",
+            "link": "/juventus-fc-tickets"
+          },
+          {
+            "label": "Sassuolo",
+            "link": "/sassuolo-tickets"
+          },
+          {
+            "label": "SS Lazio",
+            "link": "/ss-lazio-tickets"
+          },
+          {
+            "label": "SSC Napoli",
+            "link": "/ssc-napoli-tickets"
+          },
+          {
+            "label": "Torino FC",
+            "link": "/torino-fc-tickets"
+          },
+          {
+            "label": "Udinese",
+            "link": "/udinese-tickets"
+          },
+          {
+            "label": "US Lecce",
+            "link": "/us-lecce-tickets"
+          },
+          {
+            "label": "View All Italian Serie A",
+            "link": "/italian-serie-a-tickets"
+          }
+        ]
+      },
+      {
+        "label": "German Bundesliga Tickets",
+        "link": "/german-bundesliga-tickets",
+        "subitems": [
+          {
+            "label": "1. FC Union Berlin",
+            "link": "/1-fc-union-berlin-tickets"
+          },
+          {
+            "label": "1899 Hoffenheim",
+            "link": "/1899-hoffenheim-tickets"
+          },
+          {
+            "label": "Bayer Leverkusen",
+            "link": "/bayer-leverkusen-tickets"
+          },
+          {
+            "label": "Bayern Munich",
+            "link": "/bayern-munich-tickets"
+          },
+          {
+            "label": "Borussia Dortmund",
+            "link": "/borussia-dortmund-tickets"
+          },
+          {
+            "label": "Borussia Mönchengladbach",
+            "link": "/borussia-monchengladbach-tickets"
+          },
+          {
+            "label": "Darmstadt 98",
+            "link": "/darmstadt-98-tickets"
+          },
+          {
+            "label": "Eintracht Frankfurt",
+            "link": "/eintracht-frankfurt-tickets"
+          },
+          {
+            "label": "FC Augsburg",
+            "link": "/fc-augsburg-tickets"
+          },
+          {
+            "label": "FC Heidenheim",
+            "link": "/fc-heidenheim-tickets"
+          },
+          {
+            "label": "FC Köln",
+            "link": "/fc-koln-tickets"
+          },
+          {
+            "label": "FSV Mainz",
+            "link": "/fsv-mainz-tickets"
+          },
+          {
+            "label": "RB Leipzig",
+            "link": "/rb-leipzig-tickets"
+          },
+          {
+            "label": "SC Freiburg",
+            "link": "/sc-freiburg-tickets"
+          },
+          {
+            "label": "VfB Stuttgart",
+            "link": "/vfb-stuttgart-tickets"
+          },
+          {
+            "label": "VfL Bochum",
+            "link": "/vfl-bochum-tickets"
+          },
+          {
+            "label": "VfL Wolfsburg",
+            "link": "/vfl-wolfsburg-tickets"
+          },
+          {
+            "label": "Werder Bremen",
+            "link": "/werder-bremen-tickets"
+          },
+          {
+            "label": "View All German Bundesliga",
+            "link": "/german-bundesliga-tickets"
+          }
+        ]
+      },
+      {
+        "label": "French Ligue 1 Tickets",
+        "link": "/french-ligue-1-tickets",
+        "subitems": [
+          {
+            "label": "AS Monaco (ASM)",
+            "link": "/as-monaco-asm-tickets"
+          },
+          {
+            "label": "Clermont Foot",
+            "link": "/clermont-foot-tickets"
+          },
+          {
+            "label": "FC Lorient",
+            "link": "/fc-lorient-tickets"
+          },
+          {
+            "label": "FC Metz",
+            "link": "/fc-metz-tickets"
+          },
+          {
+            "label": "FC Nantes",
+            "link": "/fc-nantes-tickets"
+          },
+          {
+            "label": "Le Havre AC",
+            "link": "/le-havre-ac-tickets"
+          },
+          {
+            "label": "Lille LOSC",
+            "link": "/lille-losc-tickets"
+          },
+          {
+            "label": "Lyon",
+            "link": "/lyon-tickets"
+          },
+          {
+            "label": "Montpellier HSC (MHSC)",
+            "link": "/montpellier-hsc-mhsc-tickets"
+          },
+          {
+            "label": "OGC Nice",
+            "link": "/ogc-nice-tickets"
+          },
+          {
+            "label": "Olympique de Marseille (OM)",
+            "link": "/olympique-de-marseille-om-tickets"
+          },
+          {
+            "label": "Paris Saint Germain (PSG)",
+            "link": "/paris-saint-germain-psg-tickets"
+          },
+          {
+            "label": "RC Lens",
+            "link": "/rc-lens-tickets"
+          },
+          {
+            "label": "RC Strasbourg",
+            "link": "/rc-strasbourg-tickets"
+          },
+          {
+            "label": "Stade Brestois 29",
+            "link": "/stade-brestois-29-tickets"
+          },
+          {
+            "label": "Stade Reims",
+            "link": "/stade-reims-tickets"
+          },
+          {
+            "label": "Stade Rennais FC",
+            "link": "/stade-rennais-fc-tickets"
+          },
+          {
+            "label": "Toulouse FC (TFC)",
+            "link": "/toulouse-fc-tfc-tickets"
+          },
+          {
+            "label": "View All French Ligue 1",
+            "link": "/french-ligue-1-tickets"
+          }
+        ]
+      },
+      {
+        "label": "Euro 2024 Tickets",
+        "link": "/uefa-euro-tickets",
+        "subitems": [
+          {
+            "label": "Euro 2024 Qualifying",
+            "link": "/uefa-euro-qualifying-tickets"
+          },
+          {
+            "label": "Euro 2024 Group Stage",
+            "link": "/uefa-euro-group-stage-tickets"
+          },
+          {
+            "label": "Euro 2024 Round Of 16",
+            "link": "/uefa-euro-round-of-16-tickets"
+          },
+          {
+            "label": "Euro 2024 Quarter Final",
+            "link": "/uefa-euro-quarter-final-tickets"
+          },
+          {
+            "label": "Euro 2024 Semi Final",
+            "link": "/uefa-euro-semi-final-tickets"
+          },
+          {
+            "label": "Euro 2024 Final",
+            "link": "/uefa-euro-final-tickets"
+          },
+          {
+            "label": "Albania Euro 2024",
+            "link": "/albania-national-football-team-uefa-euro-tickets"
+          },
+          {
+            "label": "Austria Euro 2024",
+            "link": "/austria-national-football-team-uefa-euro-tickets"
+          },
+          {
+            "label": "Belgium Euro 2024",
+            "link": "/belgium-national-football-team-uefa-euro-tickets"
+          },
+          {
+            "label": "Croatia Euro 2024",
+            "link": "/croatia-national-football-team-uefa-euro-tickets"
+          },
+          {
+            "label": "Czech Republic Euro 2024",
+            "link": "/czech-republic-national-football-team-uefa-euro-tickets"
+          },
+          {
+            "label": "Denmark Euro 2024",
+            "link": "/denmark-national-football-team-uefa-euro-tickets"
+          },
+          {
+            "label": "England Euro 2024",
+            "link": "/england-national-football-team-uefa-euro-tickets"
+          },
+          {
+            "label": "France Euro 2024",
+            "link": "/france-national-football-team-uefa-euro-tickets"
+          },
+          {
+            "label": "Germany Euro 2024",
+            "link": "/germany-national-football-team-uefa-euro-tickets"
+          },
+          {
+            "label": "Hungary Euro 2024",
+            "link": "/hungary-national-football-team-uefa-euro-tickets"
+          },
+          {
+            "label": "Italy Euro 2024",
+            "link": "/italy-national-football-team-uefa-euro-tickets"
+          },
+          {
+            "label": "Netherlands Euro 2024",
+            "link": "/netherlands-national-football-team-uefa-euro-tickets"
+          },
+          {
+            "label": "Portugal Euro 2024",
+            "link": "/portugal-national-football-team-uefa-euro-tickets"
+          },
+          {
+            "label": "Romania Euro 2024",
+            "link": "/romania-national-football-team-uefa-euro-tickets"
+          },
+          {
+            "label": "Scotland Euro 2024",
+            "link": "/scotland-national-football-team-uefa-euro-tickets"
+          },
+          {
+            "label": "Serbia Euro 2024",
+            "link": "/serbia-national-football-team-uefa-euro-tickets"
+          },
+          {
+            "label": "Slovakia Euro 2024",
+            "link": "/slovakia-national-football-team-uefa-euro-tickets"
+          },
+          {
+            "label": "Slovenia Euro 2024",
+            "link": "/slovenia-uefa-euro-2024-tickets"
+          },
+          {
+            "label": "Spain Euro 2024",
+            "link": "/spain-national-football-team-uefa-euro-tickets"
+          },
+          {
+            "label": "Switzerland Euro 2024",
+            "link": "/switzerland-national-football-team-uefa-euro-tickets"
+          },
+          {
+            "label": "Turkey Euro 2024",
+            "link": "/turkey-national-football-team-uefa-euro-tickets"
+          },
+          {
+            "label": "Germany vs Scotland",
+            "link": "/germany-vs-scotland-uefa-euro-tickets"
+          },
+          {
+            "label": "Italy vs Albania",
+            "link": "/italy-vs-albania-uefa-euro-tickets"
+          },
+          {
+            "label": "Denmark vs England",
+            "link": "/denmark-vs-england-uefa-euro-tickets"
+          },
+          {
+            "label": "Spain vs Italy",
+            "link": "/spain-vs-italy-uefa-euro-tickets"
+          },
+          {
+            "label": "Netherlands vs France",
+            "link": "/netherlands-vs-france-uefa-euro-tickets"
+          },
+          {
+            "label": "View all Euro 2024",
+            "link": "/uefa-euro-tickets"
+          }
+        ]
+      },
+
+      {
+        "label": "Copa America Tickets",
+        "link": "/copa-america-tickets",
+        "subitems": [
+          {
+            "label": "Copa America Group Stage",
+            "link": "/ca-group-stage-tickets"
+          },
+          {
+            "label": "Copa America Quarter Final",
+            "link": "/ca-quarterfinals-tickets"
+          },
+          {
+            "label": "Copa America Semi Final",
+            "link": "/ca-semi-finals-tickets"
+          },
+          {
+            "label": "Copa America Final",
+            "link": "/copa-america-finals-tickets"
+          },
+          {
+            "label": "Argentina Copa America",
+            "link": "/argentina-national-football-team-copa-america-tickets"
+          },
+          {
+            "label": "Brazil Copa America",
+            "link": "/brazil-national-football-team-copa-america-tickets"
+          },
+          {
+            "label": "Mexico Copa America",
+            "link": "/mexico-national-football-team-copa-america-tickets"
+          },
+          {
+            "label": "USA Copa America",
+            "link": "/usa-national-soccer-team-copa-america-tickets"
+          },
+          {
+            "label": "View All Copa America",
+            "link": "/copa-america-tickets"
+          }
+        ]
+      },
+
+      {
+        "label": "Champions League Tickets",
+        "link": "/uefa-champions-league-tickets",
+        "subitems": [
+          {
+            "label": "Champions League Group Stage",
+            "link": "/uefa-champions-league-group-stage-tickets"
+          },
+          {
+            "label": "Champions League Round of 16",
+            "link": "/uefa-champions-league-round-of-16-tickets"
+          },
+          {
+            "label": "Champions League - Quarter-Finals",
+            "link": "/uefa-champions-league-quarter-finals-tickets"
+          },
+          {
+            "label": "Champions League Semi-Finals",
+            "link": "/champions-league-semi-finals-tickets"
+          },
+          {
+            "link": "/champions-league-final-tickets",
+            "label": "Champions League Final"
+          }
+        ]
+      },
+      {
+        "label": "Europa League Tickets",
+        "link": "/uefa-europa-league-tickets",
+        "subitems": [
+          {
+            "label": "UEFA Europa League Group Stage",
+            "link": "/uefa-europa-league-group-stage-tickets"
+          },
+          {
+            "label": "UEFA Europa League Quarter Final",
+            "link": "/uefa-europa-league-quarter-final-tickets"
+          },
+          {
+            "label": "UEFA Europa League round of 16",
+            "link": "/uefa-europa-league-round-of-16-tickets"
+          },
+          {
+            "label": "UEFA Europa League round of 32",
+            "link": "/uefa-europa-league-round-of-32-tickets"
+          },
+          {
+            "label": "UEFA Europa League Semi Final",
+            "link": "/uefa-europa-league-semi-final-tickets"
+          },
+          {
+            "label": "UEFA Europa League Final",
+            "link": "/uefa-europa-league-final-tickets"
+          },
+          {
+            "label": "UEFA Europa League Knockout Round",
+            "link": "/uefa-europa-league-knockout-round-tickets"
+          }
+        ]
+      },
+      {
+        "label": "UEFA Conference League Tickets",
+        "link": "/uefa-conference-league-tickets",
+        "subitems": [
+          {
+            "label": "UEFA Conference League Quarter-Final",
+            "link": "/uefa-conference-league-quarter-final-tickets"
+          },
+          {
+            "label": "UEFA Conference League Semi-Final",
+            "link": "/uefa-conference-league-semi-final-tickets"
+          },
+          {
+            "label": "UEFA Conference League Final",
+            "link": "/uefa-conference-league-final-tickets"
+          }
+        ]
+      },
+      {
+        "label": "Men’s National Teams Tickets",
+        "link": "/mens-national-football-teams-tickets",
+        "subitems": [
+          {
+            "label": "Argentina",
+            "link": "/argentina-national-football-team-tickets"
+          },
+          {
+            "label": "Belgium",
+            "link": "/belgium-national-football-team-tickets"
+          },
+          {
+            "label": "Brazil",
+            "link": "/brazil-national-football-team-tickets"
+          },
+          {
+            "label": "Croatia",
+            "link": "/croatia-national-football-team-tickets"
+          },
+          {
+            "label": "Denmark",
+            "link": "/denmark-national-football-team-tickets"
+          },
+          {
+            "label": "England",
+            "link": "/england-national-football-team-tickets"
+          },
+          {
+            "label": "France",
+            "link": "/france-national-football-team-tickets"
+          },
+          {
+            "label": "Germany",
+            "link": "/germany-national-football-team-tickets"
+          },
+          {
+            "label": "Italy",
+            "link": "/italy-national-football-team-tickets"
+          },
+          {
+            "label": "Mexico",
+            "link": "/mexico-national-football-team-tickets"
+          },
+          {
+            "label": "Netherlands",
+            "link": "/netherlands-national-football-team-tickets"
+          },
+          {
+            "label": "Portugal",
+            "link": "/portugal-national-football-team-tickets"
+          },
+          {
+            "label": "Republic of Ireland",
+            "link": "/ireland-national-football-team-tickets"
+          },
+          {
+            "label": "Scotland",
+            "link": "/scotland-national-football-team-tickets"
+          },
+          {
+            "label": "Spain",
+            "link": "/spain-national-football-team-tickets"
+          },
+          {
+            "label": "Switzerland",
+            "link": "/switzerland-national-football-team-tickets"
+          },
+          {
+            "label": "Uruguay",
+            "link": "/uruguay-national-football-team-tickets"
+          },
+          {
+            "label": "USA",
+            "link": "/usa-national-soccer-team-tickets"
+          },
+          {
+            "label": "Wales",
+            "link": "/wales-national-football-team-tickets"
+          },
+          {
+            "label": "View all mens national teams",
+            "link": "/mens-national-football-teams-tickets"
+          }
+        ]
+      },
+
+      {
+        "label": "MLS Tickets",
+        "link": "/mls-soccer-tickets",
+        "subitems": [
+          {
+            "label": "Atlanta United FC",
+            "link": "/atlanta-united-fc-tickets"
+          },
+          {
+            "label": "Austin FC",
+            "link": "/austin-fc-tickets"
+          },
+          {
+            "label": "CF Montreal",
+            "link": "/montreal-impact-tickets"
+          },
+          {
+            "label": "Charlotte FC",
+            "link": "/charlotte-fc-tickets"
+          },
+          {
+            "label": "Chicago Fire",
+            "link": "/chicago-fire-tickets"
+          },
+          {
+            "label": "Colorado Rapids",
+            "link": "/colorado-rapids-tickets"
+          },
+          {
+            "label": "Columbus Crew",
+            "link": "/columbus-crew-tickets"
+          },
+          {
+            "label": "DC United",
+            "link": "/dc-united-tickets"
+          },
+          {
+            "label": "FC Cincinnati",
+            "link": "/fc-cincinnati-tickets"
+          },
+          {
+            "label": "FC Dallas",
+            "link": "/fc-dallas-tickets"
+          },
+          {
+            "label": "Houston Dynamo",
+            "link": "/houston-dynamo-tickets"
+          },
+          {
+            "label": "Inter Miami CF",
+            "link": "/inter-miami-cf-tickets"
+          },
+          {
+            "label": "Leagues Cup",
+            "link": "/leagues-cup-tickets"
+          },
+          {
+            "label": "Los Angeles Football Club (LAFC)",
+            "link": "/los-angeles-fc-tickets"
+          },
+          {
+            "label": "Los Angeles Galaxy",
+            "link": "/los-angeles-galaxy-tickets"
+          },
+          {
+            "label": "Minnesota United FC",
+            "link": "/minnesota-united-fc-tickets"
+          },
+          {
+            "label": "Nashville SC",
+            "link": "/nashville-tickets"
+          },
+          {
+            "label": "New England Revolution",
+            "link": "/new-england-revolution-tickets"
+          },
+          {
+            "label": "New York City FC",
+            "link": "/new-york-city-fc-tickets"
+          },
+          {
+            "label": "New York Red Bulls",
+            "link": "/new-york-red-bulls-tickets"
+          },
+          {
+            "label": "Orlando City SC",
+            "link": "/orlando-city-sc-tickets"
+          },
+          {
+            "label": "Philadelphia Union",
+            "link": "/philadelphia-union-tickets"
+          },
+          {
+            "label": "Portland Timbers",
+            "link": "/portland-timbers-tickets"
+          },
+          {
+            "label": "Real Salt Lake",
+            "link": "/real-salt-lake-tickets"
+          },
+          {
+            "label": "San Jose Earthquakes",
+            "link": "/san-jose-earthquakes-tickets"
+          },
+          {
+            "label": "Seattle Sounders",
+            "link": "/seattle-sounders-tickets"
+          },
+          {
+            "label": "Sporting Kansas City",
+            "link": "/sporting-kansas-city-tickets"
+          },
+          {
+            "label": "St. Louis City SC",
+            "link": "/st-louis-city-sc-tickets"
+          },
+          {
+            "label": "Toronto FC",
+            "link": "/toronto-fc-tickets"
+          },
+          {
+            "label": "Vancouver Whitecaps",
+            "link": "/vancouver-whitecaps-tickets"
+          },
+          {
+            "label": "MLS All-Star Game",
+            "link": "/mls-all-stars-tickets"
+          },
+          {
+            "label": "MLS Playoffs",
+            "link": "/mls-playoffs-tickets"
+          },
+          {
+            "label": "MLS Finals",
+            "link": "/mls-finals-tickets"
+          },
+          {
+            "label": "View All MLS",
+            "link": "/mls-soccer-tickets"
+          }
+        ]
+      },
+      {
+        "label": "Dutch Eredivisie Tickets",
+        "link": "/dutch-eredivisie-tickets",
+        "subitems": [
+          {
+            "label": "AFC Ajax",
+            "link": "/afc-ajax-tickets"
+          },
+          {
+            "label": "AZ Alkmaar",
+            "link": "/az-alkmaar-tickets"
+          },
+          {
+            "label": "FC Twente",
+            "link": "/fc-twente-tickets"
+          },
+          {
+            "label": "FC Utrecht",
+            "link": "/fc-utrecht-tickets"
+          },
+          {
+            "label": "Feyenoord",
+            "link": "/feyenoord-tickets"
+          },
+          {
+            "label": "PSV Eindhoven",
+            "link": "/psv-eindhoven-tickets"
+          },
+          {
+            "label": "Sparta Rotterdam",
+            "link": "/sparta-rotterdam-tickets"
+          },
+          {
+            "label": "Dutch Super Cup",
+            "link": "/dutch-super-cup-tickets"
+          },
+          {
+            "label": "View All Dutch Eredivisie",
+            "link": "/dutch-eredivisie-tickets"
+          }
+        ]
+      },
+      {
+        "label": "Turkish Super Lig Tickets",
+        "link": "/turkish-super-lig-tickets",
+        "subitems": [
+          {
+            "label": "Besiktas JK",
+            "link": "/besiktas-jk-tickets"
+          },
+          {
+            "label": "Fenerbahce SK",
+            "link": "/fenerbahce-sk-tickets"
+          },
+          {
+            "label": "Galatasaray SK",
+            "link": "/galatasaray-sk-tickets"
+          },
+          {
+            "label": "View All Turkish Super Lig",
+            "link": "/turkish-super-lig-tickets"
+          }
+        ]
+      },
+
+      {
+        "label": "Scottish Premiership Tickets",
+        "link": "/scottish-premiership-tickets",
+        "subitems": [
+          {
+            "label": "Aberdeen FC",
+            "link": "/aberdeen-fc-tickets"
+          },
+          {
+            "label": "Celtic FC",
+            "link": "/celtic-fc-tickets"
+          },
+          {
+            "label": "Rangers FC",
+            "link": "/rangers-fc-tickets"
+          },
+          {
+            "label": "Scottish League Cup",
+            "link": "/scottish-league-cup-tickets"
+          },
+          {
+            "label": "View All Scottish Premiership",
+            "link": "/scottish-premiership-tickets"
+          }
+        ]
+      },
+      {
+        "label": "Portuguese Primeira Liga Tickets",
+        "link": "/portuguese-league-tickets",
+        "subitems": [
+          {
+            "label": "Boavista FC",
+            "link": "/boavista-fc-tickets"
+          },
+          {
+            "label": "FC Porto",
+            "link": "/fc-porto-tickets"
+          },
+          {
+            "label": "SC Braga",
+            "link": "/sc-braga-tickets"
+          },
+          {
+            "label": "SL Benfica",
+            "link": "/sl-benfica-tickets"
+          },
+          {
+            "label": "Sporting Lisbon",
+            "link": "/sporting-club-portugal-lisbon-tickets"
+          },
+          {
+            "label": "Vitoria Guimaraes",
+            "link": "/vitoria-guimaraes-tickets"
+          },
+          {
+            "label": "View All Portuguese Primeira Liga",
+            "link": "/portuguese-league-tickets"
+          }
+        ]
+      },
+      {
+        "label": "Football Cups Tickets",
+        "link": "/football-soccer-cups-tickets",
+        "subitems": [
+          {
+            "label": "Carabao Cup - EFL Cup",
+            "link": "/football-league-trophy-tickets"
+          },
+          {
+            "label": "Club World Cup",
+            "link": "/club-world-cup-tickets"
+          },
+          {
+            "label": "FA Community Shield",
+            "link": "/fa-community-shield-tickets"
+          },
+          {
+            "label": "FA Cup",
+            "link": "/fa-cup-tickets"
+          },
+          {
+            "label": "FA Cup Final",
+            "link": "/fa-cup-final-tickets"
+          },
+          {
+            "label": "FIFA Club World Cup",
+            "link": "/fifa-club-world-cup-tickets"
+          },
+          {
+            "label": "French Cup",
+            "link": "/french-cup-tickets"
+          },
+          {
+            "label": "French Super Cup",
+            "link": "/french-super-cup-tickets"
+          },
+          {
+            "label": "International Champions Cup",
+            "link": "/international-champions-cup-tickets"
+          },
+          {
+            "label": "Italian Cup",
+            "link": "/italian-cup-tickets"
+          },
+          {
+            "label": "Italian Super Cup",
+            "link": "/italian-super-cup-tickets"
+          },
+          {
+            "label": "Spanish Cup - Copa del Rey",
+            "link": "/spanish-cup-copa-del-rey-tickets"
+          },
+          {
+            "label": "UEFA Super Cup",
+            "link": "/uefa-super-cup-tickets"
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "label": "Music Tickets",
+    "link": "/music-tickets",
+    "items": [
+      {
+        "label": "Adele",
+        "link": "/adele-tickets"
+      },
+      {
+        "label": "Alicia Keys",
+        "link": "/alicia-keys-tickets"
+      },
+      {
+        "label": "Andrea Bocelli",
+        "link": "/andrea-bocelli-tickets"
+      },
+      {
+        "label": "Avril Lavigne",
+        "link": "/avril-lavigne-tickets"
+      },
+      {
+        "label": "Beyonce",
+        "link": "/beyonce-tickets"
+      },
+      {
+        "label": "Billie Eilish",
+        "link": "/billie-eilish-tickets"
+      },
+      {
+        "label": "BLACKPINK",
+        "link": "/blackpink-tickets"
+      },
+      {
+        "label": "Coldplay",
+        "link": "/coldplay-tickets"
+      },
+      {
+        "label": "Ed Sheeran",
+        "link": "/ed-sheeran-tickets"
+      },
+      {
+        "label": "Elton John",
+        "link": "/elton-john-tickets"
+      },
+      {
+        "label": "Eric Clapton",
+        "link": "/eric-clapton-tickets"
+      },
+      {
+        "label": "Green Day",
+        "link": "/green-day-tickets"
+      },
+      {
+        "label": "Guns N Roses",
+        "link": "/guns-n-roses-tickets"
+      },
+      {
+        "label": "Harry Styles",
+        "link": "/harry-styles-tickets"
+      },
+      {
+        "label": "Iron Maiden",
+        "link": "/iron-maiden-tickets"
+      },
+      {
+        "label": "John Legend",
+        "link": "/john-legend-tickets"
+      },
+      {
+        "label": "Justin Bieber",
+        "link": "/justin-bieber-tickets"
+      },
+      {
+        "label": "Kings of Leon",
+        "link": "/kings-of-leon-tickets"
+      },
+      {
+        "label": "Liam Gallagher",
+        "link": "/liam-gallagher-tickets"
+      },
+      {
+        "label": "Pixies",
+        "link": "/pixies-tickets"
+      },
+      {
+        "label": "Red Hot Chili Peppers",
+        "link": "/red-hot-chili-peppers-tickets"
+      },
+      {
+        "label": "Sting",
+        "link": "/sting-tickets"
+      },
+      {
+        "label": "Sziget Festival",
+        "link": "/sziget-festival-tickets"
+      },
+      {
+        "label": "Taylor Swift",
+        "link": "/taylor-swift-tickets"
+      },
+      {
+        "label": "The Who",
+        "link": "/the-who-tickets"
+      },
+      {
+        "label": "Wireless Festival",
+        "link": "/wireless-festival-tickets"
+      },
+      {
+        "label": "View More Concert",
+        "link": "/concert-tickets"
+      }
+    ]
+  },
+  {
+    "label": "Venues Tickets",
+    "link": "/venues-tickets",
+    "items": [
+      {
+        "label": "Allianz Arena",
+        "link": "/allianz-arena-tickets"
+      },
+      {
+        "label": "Allianz Stadium",
+        "link": "/allianz-stadium-tickets"
+      },
+      {
+        "label": "Amsterdam Arena",
+        "link": "/amsterdam-arena-tickets"
+      },
+      {
+        "label": "Anfield",
+        "link": "/anfield-tickets"
+      },
+      {
+        "label": "Camp Nou",
+        "link": "/camp-nou-tickets"
+      },
+      {
+        "label": "El Estadio Santiago Bernabeu",
+        "link": "/el-estadio-santiago-bernabeu-tickets"
+      },
+      {
+        "label": "Emirates Stadium",
+        "link": "/emirates-stadium-tickets"
+      },
+      {
+        "label": "Etihad Stadium",
+        "link": "/etihad-stadium-tickets"
+      },
+      {
+        "label": "Goodison Park",
+        "link": "/goodison-park-tickets"
+      },
+      {
+        "label": "King Power Stadium",
+        "link": "/king-power-stadium-tickets"
+      },
+      {
+        "label": "O2 Arena",
+        "link": "/o2-arena-tickets"
+      },
+      {
+        "label": "Olympic Stadium London",
+        "link": "/olympic-stadium-london-tickets"
+      },
+      {
+        "label": "Old Trafford Football Ground",
+        "link": "/old-trafford-football-ground-tickets"
+      },
+      {
+        "label": "Parc des Princes",
+        "link": "/parc-des-princes-tickets"
+      },
+      {
+        "label": "Stadio Olimpico",
+        "link": "/stadio-olimpico-roma-tickets"
+      },
+      {
+        "label": "Stadio San Siro (Giuseppe Meazza)",
+        "link": "/stadio-san-siro-giuseppe-meazza-tickets"
+      },
+      {
+        "label": "Stamford Bridge",
+        "link": "/stamford-bridge-tickets"
+      },
+      {
+        "label": "Tottenham Hotspur Stadium",
+        "link": "/tottenham-hotspur-stadium-tickets"
+      },
+      {
+        "label": "Wanda Metropolitano",
+        "link": "/wanda-metropolitano-tickets"
+      },
+      {
+        "label": "Wembley Stadium",
+        "link": "/wembley-stadium-tickets"
+      },
+      {
+        "label": "View All Venues",
+        "link": "/venues-tickets"
+      }
+    ]
+  },
+  {
+    "label": "Cities Tickets",
+    "link": "/cities",
+    "items": [
+      {
+        "label": "Amsterdam",
+        "data": {
+          "pathname": "/cities/[citySlug]",
+          "query": {
+            "citySlug": "amsterdam"
+          }
+        },
+        "link": "/cities/amsterdam"
+      },
+      {
+        "label": "Barcelona",
+        "data": {
+          "pathname": "/cities/[citySlug]",
+          "query": {
+            "citySlug": "barcelona"
+          }
+        },
+        "link": "/cities/barcelona"
+      },
+      {
+        "label": "Berlin",
+        "data": {
+          "pathname": "/cities/[citySlug]",
+          "query": {
+            "citySlug": "berlin"
+          }
+        },
+        "link": "/cities/berlin"
+      },
+      {
+        "label": "Budapest",
+        "data": {
+          "pathname": "/cities/[citySlug]",
+          "query": {
+            "citySlug": "budapest"
+          }
+        },
+        "link": "/cities/budapest"
+      },
+      {
+        "label": "Cologne",
+        "data": {
+          "pathname": "/cities/[citySlug]",
+          "query": {
+            "citySlug": "cologne"
+          }
+        },
+        "link": "/cities/cologne"
+      },
+      {
+        "label": "Copenhagen",
+        "data": {
+          "pathname": "/cities/[citySlug]",
+          "query": {
+            "citySlug": "copenhagen"
+          }
+        },
+        "link": "/cities/copenhagen"
+      },
+      {
+        "label": "Glasgow",
+        "data": {
+          "pathname": "/cities/[citySlug]",
+          "query": {
+            "citySlug": "glasgow"
+          }
+        },
+        "link": "/cities/glasgow"
+      },
+      {
+        "label": "Hamburg",
+        "data": {
+          "pathname": "/cities/[citySlug]",
+          "query": {
+            "citySlug": "hamburg"
+          }
+        },
+        "link": "/cities/hamburg"
+      },
+      {
+        "label": "Helsinki",
+        "data": {
+          "pathname": "/cities/[citySlug]",
+          "query": {
+            "citySlug": "helsinki"
+          }
+        },
+        "link": "/cities/helsinki"
+      },
+      {
+        "label": "Lisbon",
+        "data": {
+          "pathname": "/cities/[citySlug]",
+          "query": {
+            "citySlug": "lisbon"
+          }
+        },
+        "link": "/cities/lisbon"
+      },
+      {
+        "label": "Liverpool",
+        "data": {
+          "pathname": "/cities/[citySlug]",
+          "query": {
+            "citySlug": "liverpool"
+          }
+        },
+        "link": "/cities/liverpool"
+      },
+      {
+        "label": "London",
+        "data": {
+          "pathname": "/cities/[citySlug]",
+          "query": {
+            "citySlug": "london"
+          }
+        },
+        "link": "/cities/london"
+      },
+      {
+        "label": "Lyon",
+        "data": {
+          "pathname": "/cities/[citySlug]",
+          "query": {
+            "citySlug": "lyon"
+          }
+        },
+        "link": "/cities/lyon"
+      },
+      {
+        "label": "Madrid",
+        "data": {
+          "pathname": "/cities/[citySlug]",
+          "query": {
+            "citySlug": "madrid"
+          }
+        },
+        "link": "/cities/madrid"
+      },
+      {
+        "label": "Manchester",
+        "data": {
+          "pathname": "/cities/[citySlug]",
+          "query": {
+            "citySlug": "manchester"
+          }
+        },
+        "link": "/cities/manchester"
+      },
+      {
+        "label": "Milano",
+        "data": {
+          "pathname": "/cities/[citySlug]",
+          "query": {
+            "citySlug": "milano"
+          }
+        },
+        "link": "/cities/milano"
+      },
+      {
+        "label": "Munich",
+        "data": {
+          "pathname": "/cities/[citySlug]",
+          "query": {
+            "citySlug": "munich"
+          }
+        },
+        "link": "/cities/munich"
+      },
+      {
+        "label": "Paris",
+        "data": {
+          "pathname": "/cities/[citySlug]",
+          "query": {
+            "citySlug": "paris"
+          }
+        },
+        "link": "/cities/paris"
+      },
+      {
+        "label": "Prague",
+        "data": {
+          "pathname": "/cities/[citySlug]",
+          "query": {
+            "citySlug": "prague"
+          }
+        },
+        "link": "/cities/prague"
+      },
+      {
+        "label": "Rome",
+        "data": {
+          "pathname": "/cities/[citySlug]",
+          "query": {
+            "citySlug": "rome"
+          }
+        },
+        "link": "/cities/rome"
+      },
+      {
+        "label": "Zurich",
+        "data": {
+          "pathname": "/cities/[citySlug]",
+          "query": {
+            "citySlug": "zurich"
+          }
+        },
+        "link": "/cities/zurich"
+      }
+    ]
+  },
+  {
+    "label": "NBA Tickets",
+    "link": "/nba-tickets",
+    "items": [
+      {
+        "label": "Atlanta Hawks",
+        "link": "/atlanta-hawks-tickets"
+      },
+      {
+        "label": "Boston Celtics",
+        "link": "/boston-celtics-tickets"
+      },
+      {
+        "label": "Brooklyn Nets",
+        "link": "/brooklyn-nets-tickets"
+      },
+      {
+        "label": "Charlotte Hornets",
+        "link": "/charlotte-hornets-tickets"
+      },
+      {
+        "label": "Chicago Bulls",
+        "link": "/chicago-bulls-tickets"
+      },
+      {
+        "label": "Cleveland Cavaliers",
+        "link": "/cleveland-cavaliers-tickets"
+      },
+      {
+        "label": "Dallas Mavericks",
+        "link": "/dallas-mavericks-tickets"
+      },
+      {
+        "label": "Denver Nuggets",
+        "link": "/denver-nuggets-tickets"
+      },
+      {
+        "label": "Detroit Pistons",
+        "link": "/detroit-pistons-tickets"
+      },
+      {
+        "label": "Golden State Warriors",
+        "link": "/golden-state-warriors-tickets"
+      },
+      {
+        "label": "Houston Rockets",
+        "link": "/houston-rockets-tickets"
+      },
+      {
+        "label": "Indiana Pacers",
+        "link": "/indiana-pacers-tickets"
+      },
+      {
+        "label": "Los Angeles Clippers",
+        "link": "/los-angeles-clippers-tickets"
+      },
+      {
+        "label": "Los Angeles Lakers",
+        "link": "/los-angeles-lakers-tickets"
+      },
+      {
+        "label": "Memphis Grizzlies",
+        "link": "/memphis-grizzlies-tickets"
+      },
+      {
+        "label": "Miami Heat",
+        "link": "/miami-heat-tickets"
+      },
+      {
+        "label": "Milwaukee Bucks",
+        "link": "/milwaukee-bucks-tickets"
+      },
+      {
+        "label": "Minnesota Timberwolves",
+        "link": "/minnesota-timberwolves-tickets"
+      },
+      {
+        "label": "New Orleans Pelicans",
+        "link": "/new-orleans-pelicans-tickets"
+      },
+      {
+        "label": "New York Knicks",
+        "link": "/new-york-knicks-tickets"
+      },
+      {
+        "label": "Oklahoma City Thunder",
+        "link": "/oklahoma-city-thunder-tickets"
+      },
+      {
+        "label": "Orlando Magic",
+        "link": "/orlando-magic-tickets"
+      },
+      {
+        "label": "Philadelphia 76ers",
+        "link": "/philadelphia-76ers-tickets"
+      },
+      {
+        "label": "Phoenix Suns",
+        "link": "/phoenix-suns-tickets"
+      },
+      {
+        "label": "Portland Trail Blazers",
+        "link": "/portland-trail-blazers-tickets"
+      },
+      {
+        "label": "Sacramento Kings",
+        "link": "/sacramento-kings-tickets"
+      },
+      {
+        "label": "San Antonio Spurs",
+        "link": "/san-antonio-spurs-tickets"
+      },
+      {
+        "label": "Toronto Raptors",
+        "link": "/toronto-raptors-tickets"
+      },
+      {
+        "label": "Utah Jazz",
+        "link": "/utah-jazz-tickets"
+      },
+      {
+        "label": "Washington Wizards",
+        "link": "/washington-wizards-tickets"
+      }
+    ]
+  },
+  {
+    "label": "Formula 1 Tickets",
+    "link": "/f1-tickets",
+    "items": [
+      {
+        "label": "F1 Abu Dhabi 2023",
+        "link": "/f1-abu-dhabi-tickets"
+      },
+      {
+        "label": "F1 Australia 2023",
+        "link": "/f1-australia-tickets"
+      },
+      {
+        "label": "F1 Austria 2023",
+        "link": "/f1-austria-tickets"
+      },
+      {
+        "label": "F1 Azerbaijan 2023",
+        "link": "/f1-azerbaijan-tickets"
+      },
+      {
+        "label": "F1 Bahrain 2023",
+        "link": "/f1-bahrain-tickets"
+      },
+      {
+        "label": "F1 Belgium 2023",
+        "link": "/f1-belgium-tickets"
+      },
+      {
+        "label": "F1 Brazil 2023",
+        "link": "/f1-brazil-tickets"
+      },
+      {
+        "label": "F1 Britain 2023",
+        "link": "/british-grand-prix-tickets"
+      },
+      {
+        "label": "F1 Canada 2023",
+        "link": "/f1-canada-tickets"
+      },
+      {
+        "label": "F1 Hungary 2023",
+        "link": "/f1-hungary-tickets"
+      },
+      {
+        "label": "F1 Italy 2023",
+        "link": "/italian-grand-prix-tickets"
+      },
+      {
+        "label": "F1 Japan 2023",
+        "link": "/f1-japan-tickets"
+      },
+      {
+        "label": "F1 Mexico 2023",
+        "link": "/f1-mexico-tickets"
+      },
+      {
+        "label": "F1 Miami 2023",
+        "link": "/miami-grand-prix-tickets"
+      },
+      {
+        "label": "F1 Monaco 2023",
+        "link": "/f1-monaco-tickets"
+      },
+      {
+        "label": "F1 Qatar 2023",
+        "link": "/f1-qatar-tickets"
+      },
+      {
+        "label": "F1 Saudi Arabia 2023",
+        "link": "/saudi-arabian-grand-prix-tickets"
+      },
+      {
+        "label": "F1 Singapore 2023",
+        "link": "/f1-singapore-tickets"
+      },
+      {
+        "label": "F1 Spain 2023",
+        "link": "/f1-spain-tickets"
+      }
+    ]
+  },
+  {
+    "label": "Rugby Tickets",
+    "link": "/rugby-tickets",
+    "items": [
+      {
+        "label": "Rugby World Cup 2023",
+        "link": "/rugby-world-cup-tickets"
+      },
+      {
+        "label": "Six Nations",
+        "link": "/six-nations-rugby-tickets"
+      },
+      {
+        "label": "Rugby World Cup - Group Stage",
+        "link": "/rugby-world-cup-group-stage-tickets"
+      },
+      {
+        "label": "Rugby World Cup - Quarter Finals Tickets",
+        "link": "/rugby-world-cup-quarter-finals-tickets"
+      },
+      {
+        "label": "Rugby World Cup - Semi Finals Tickets",
+        "link": "/rugby-world-cup-semi-finals-tickets"
+      },
+      {
+        "label": "Rugby World Cup Final",
+        "link": "/rugby-world-cup-final-tickets"
+      }
+    ]
+  }
+]
