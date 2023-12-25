@@ -30,8 +30,9 @@ export const HomePage = ({
         {menu.map((group) => (
           <li key={group.link}>
             <Link
-              href={{ pathname: "/[slug]", query: { slug: group.link } }}
-              as={group.link}
+              //   href={{ pathname: "/[slug]", query: { slug: group.link } }}
+              //   as={group.link}
+              href={group.link}
             >
               {group.label}
             </Link>
@@ -40,8 +41,9 @@ export const HomePage = ({
               {group.items.map((item) => (
                 <li key={`${group.link}-${item.link}`}>
                   <Link
-                    href={{ pathname: "/[slug]", query: { slug: item.link } }}
-                    as={item.link}
+                    // href={{ pathname: "/[slug]", query: { slug: item.link } }}
+                    // as={item.link}
+                    href={item.link}
                   >
                     {item.label}
                   </Link>
@@ -51,11 +53,12 @@ export const HomePage = ({
                       {item.subitems.map((subitem) => (
                         <li key={`${group.link}-${item.link}-${subitem.link}`}>
                           <Link
-                            href={{
-                              pathname: "/[slug]",
-                              query: { slug: subitem.link },
-                            }}
-                            as={subitem.link}
+                            // href={{
+                            //   pathname: "/[slug]",
+                            //   query: { slug: subitem.link },
+                            // }}
+                            // as={subitem.link}
+                            href={subitem.link}
                           >
                             {subitem.label}
                           </Link>
